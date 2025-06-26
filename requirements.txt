@@ -3,7 +3,6 @@ pandas
 scikit-learn
 matplotlib
 nltk
-re
 joblib
 seaborn
 streamlit
